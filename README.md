@@ -3,7 +3,7 @@
 
 **ML-EFW-EWS: Machine Learning-Based Early Warning System for Electricity Failures Due to Extreme Weather**
 
-This project proposes an Early Warning System (EWS) that leverages machine learning algorithms to predict electricity distribution failures based on extreme weather conditions. Using historical weather data and outage records, the system aims to provide accurate, timely alerts to grid operators and utility companies.
+This project proposes an Early Warning System (EWS) that leverages machine learning algorithms to predict electricity distribution failures based on extreme weather conditions. Using historical weather data and outage records, the system aims to provide accurate, timely alerts to grid operators and utility companies. This github is official paper implementation repository for xxxx
 
 ---
 
